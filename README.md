@@ -9,3 +9,9 @@ Proyek Flutter ini bertujuan untuk membuat aplikasi edukasi dasar yang membantu 
 
 ### Tujuan Proyek
 Proyek ini ditujukan untuk pengguna yang baru memulai perjalanan mereka dalam pengembangan Flutter. Aplikasi ini menawarkan pengalaman belajar yang interaktif, di mana pengguna dapat mencoba berbagai fitur dan fungsi dasar Flutter. Dengan berfokus pada contoh-contoh praktis, proyek ini diharapkan dapat mempermudah pengguna dalam memahami konsep Flutter dan bagaimana membangun aplikasi dari awal.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/002.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/002.2.png" width="200px"/>
+</div>
